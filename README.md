@@ -522,3 +522,11 @@ Las clases deben contener lo siguiente.
 -   Clase Empleado:
     
     La clase empleado hace uso de Persona, DictMixin y JsonMixin, el constructor debe inicializar el nombre, una lista de skills y un diccionario que contenga los datos de su familia, por ejemplo `{"esposa": "María"}`. Luego de crear la clase hacer uso de `to_dict` y `to_json`.
+
+
+Links:
+
+[Slide](https://docs.google.com/presentation/d/e/2PACX-1vTVhAMfOCIVe5T9ZnEIFF5Rv365YGW95WpqLprszRxIfkzUl8uYLmpfdGtrkF9FmnJc7JTlz2maQnhh/embed?start=false&loop=false&delayms=3000)
+
+[Teoria](https://www.youtube.com/watch?v=NY49laSW2io&list=PLxI5H7lUXWhgHbHF4bNrZdBHDtf0CbEeH&index=12&ab_channel=Silabuz)
+[Practica](https://www.youtube.com/watch?v=MyJoGCLx4bs&list=PLxI5H7lUXWhgHbHF4bNrZdBHDtf0CbEeH&index=13&ab_channel=Silabuz)
